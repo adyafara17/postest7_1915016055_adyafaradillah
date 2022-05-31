@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71080212206",
+    "project_id": "coba-d9750",
+    "storage_bucket": "coba-d9750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71080212206:android:82225792df1ff9cdf1a5ff",
+        "android_client_info": {
+          "package_name": "com.example.postest6_1915016055_adyafaradillah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71080212206-v2l13nrlskrvmk0hkbjqmoah45086rcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8zXDF8WfoM7U9sUu2jNJ0MjvWtKdLuqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71080212206-v2l13nrlskrvmk0hkbjqmoah45086rcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
